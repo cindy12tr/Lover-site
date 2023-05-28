@@ -20,6 +20,7 @@ p {
   font-family: "Montserrat-Black";
   font-size: 3.5rem;
   line-height: 1.5;
+  margin-top: 5rem;
 }
 
 .section-heading {
@@ -36,7 +37,7 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #ff4c68;
+  background-color: #ce2f2f;
   color: #fff;
 }
 
@@ -74,7 +75,7 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #ff4c68;
+  background-color: #c32c2c;
   color: #fff;
   text-align: left;
 }
@@ -95,8 +96,8 @@ p {
 }
 .phone-screen{
   position: absolute;
-  top: 1.1rem;
-  left: 2.1rem;
+  top: .9rem;
+  left: 1.7rem;
   width: 262px;
   height: 570px;
   
@@ -105,10 +106,11 @@ p {
   display: none;
 }
 .app-img{
-  width: 100%;
-  border-radius: 30px;
-  height: 100%;
+  width: 105%;
+  height: 101%;
+  border-radius: 15px;
 }
+
 
 /* Features Section */
 
@@ -125,18 +127,18 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #e3331c;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #e50909;
 }
 
 /* Testimonial Section */
 
 #testimonials {
-  background-color: #ef8172;
+  background-color: #db2f2f;
 }
 
 .testimonial-text {
@@ -152,7 +154,7 @@ p {
 
 
 #press {
-  background-color: #ef8172;
+  background-color: #dacccc;
   padding-bottom: 3%;
 }
 
